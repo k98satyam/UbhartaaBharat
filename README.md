@@ -1,5 +1,6 @@
 # UbhartaaBharat
 A Crowdfunding platform where payment is done via Ether(backed by Blockchain Tecchnology)
+Made Using React and Redux for frontend and firebase for databse and hosting 
 
 # Instillation
 
